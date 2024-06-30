@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoderByte Assessement Project\\finding-the-next-greater-permutation\\finding-the-next-greater-permutation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B6CBE4-F940-429B-A09B-ECCA7DB68BBB}|finding-the-next-greater-permutation\\finding-the-next-greater-permutation.csproj|e:\\coderbyte assessement project\\finding-the-next-greater-permutation\\finding-the-next-greater-permutation\\finding-the-next-greater-permutation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B6CBE4-F940-429B-A09B-ECCA7DB68BBB}|finding-the-next-greater-permutation\\finding-the-next-greater-permutation.csproj|solutionrelative:finding-the-next-greater-permutation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoderByte Assessement Project\\finding-the-next-greater-permutation\\finding-the-next-greater-permutation\\finding-the-next-greater-permutation\\Program.cs",
+              "RelativeDocumentMoniker": "finding-the-next-greater-permutation\\Program.cs",
+              "ToolTip": "E:\\CoderByte Assessement Project\\finding-the-next-greater-permutation\\finding-the-next-greater-permutation\\finding-the-next-greater-permutation\\Program.cs",
+              "RelativeToolTip": "finding-the-next-greater-permutation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:04:28.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
